@@ -1,4 +1,4 @@
-package Spring_Jenkins.Spring_Jenkins;
+package Spring_Jenkins;
 
 import org.slf4j.LoggerFactory;
 import org.springframework.boot.SpringApplication;
