@@ -18,6 +18,7 @@ class JenkinsApplicationTests {
 	@Test
 	void contextLoads() {
 		Logger.info("Test Case executing ...");
+		Logger.info("Jekins Working Good ...");
 		assertEquals(true, true);
 	}
 
